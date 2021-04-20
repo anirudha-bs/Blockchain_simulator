@@ -1,2 +1,1 @@
-# Golang_blockchain_simulator
-Blockchain simulator
+# Blockchain_simulator

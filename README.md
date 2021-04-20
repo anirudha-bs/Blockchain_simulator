@@ -5,7 +5,12 @@ It uses structure to store the data of each block in memory and later writes it 
 It also validates newly added blocks and follows longest valid chain protocol.
 
 To use it -
+
 ```
+mv blockchain.env .env
+go get github.com/davecgh/go-spew/spew
+go get github.com/gorilla/mux
+go get github.com/joho/godotenv
 go run .
 ```
 

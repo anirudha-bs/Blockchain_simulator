@@ -14,7 +14,7 @@ go get github.com/joho/godotenv
 go run .
 ```
 
-Go to localhost/8080 to view the blocks
+Go to localhost/8080 to view the blocks.
 
 Use postman to send a post request to localhost/8080 with {Key:(any integer value)} in the request body to add new blocks.
 It automatically appends the newly added blocks to the file.
